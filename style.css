@@ -1,0 +1,221 @@
+body{
+    background: url(./img/MegaMiko\ on\ Twitter.jpeg);
+    backdrop-filter: blur(1.5px);
+    background-size: cover;
+    height: 2900px;
+    background-position: -300px 0px ;
+}
+h1{
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    color: #704a35 ;
+    font-size: 45px;
+    text-shadow: 5px 5px 10px #d18b51;
+}
+h1:hover{
+    transition: 0.3s;
+    letter-spacing: 4px;
+    color: #a12e2e;
+    text-shadow: 5px 5px 10px #80374d;
+
+}
+h2{
+    text-align: center;
+    font-family: 'Teko', sans-serif;
+    font-size: 40px;
+    color: #4e5938;;
+    text-shadow: 0px 0px 5px #90A955;
+}
+h2:hover{
+    transition: 0.3s;
+    letter-spacing: 4px;
+    color:  #32638a;
+    text-shadow: 0px 0px 5px #4aabdf;
+}
+
+
+.box_1 {
+    text-align: center;
+    margin: 0 auto;
+    width: 700px;
+    height: 180px;
+    background: #7f5c24b9;
+    border-radius: 20px;
+}
+.box_1-block_1 {
+    margin-top: 60px;
+
+}
+.box_1-qustion0{
+    font-family: 'Oswald', sans-serif;
+    color: #74e8d9c2;
+    text-shadow: 0px 0px 5px #45686e;
+
+}
+.box_1-input {
+    background: transparent;
+    background-color: #47e5ca82;
+    border: 1px solid #1d768d;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.box_1-block_2 {
+    margin-top: 2px;
+    color: #88a9e3;
+    text-shadow: 0px 0px 5px #2c6685;
+}
+.box_1-qustion {
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 18px;
+}
+.box_1-input_1 {
+    background: transparent;
+    background-color: #6cb7dc82;
+    border: 1px solid #4177be;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+.box_2 {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 80px;
+    width: 700px;
+    height: 650px;
+    background: #c58f39b9;
+    border-radius: 20px;
+}
+h3{
+    font-size: 28px;
+    font-family: 'Teko', sans-serif;
+    color: #1d5927;
+    text-shadow: 0px 0px 5px #424242;
+}
+.span_1{
+    color: #fff;
+}
+.span_2{
+    color: #d6804f;
+}
+h3:hover{
+    transition: 0.3s;
+    letter-spacing: 4px;
+}
+h3:hover .span_1{
+    transition: 0.3s;
+    color: #d6804f;
+}
+h3:hover .span_2{
+    transition: 0.3s;
+    color: #fff;
+}
+
+.box_2-block_1 {
+    margin: 30px 0;
+    background-color: #e4b76b7e;
+}
+.box_2-questhion_1 {
+    font-size: 16px;
+    font-family: 'Oswald', sans-serif;
+}
+.box_2-questhion_1:hover{
+    transition: 0.3s;
+    font-size: 18px ;
+    font-weight: 700;
+}
+.box_2-answer {
+    font-size: 17px;
+    color: #3a271f;
+    font-family: 'Delicious Handrawn', cursive;
+}
+.box_2-input{
+    cursor: pointer;
+}
+
+
+.box_3 {
+    background-color: #7a4db6aa;
+    border-radius: 20px;
+    margin: 0 auto;
+    text-align: center;
+    width: 700px;
+    
+}
+h4{
+    font-family: 'Teko', sans-serif;
+    font-size: 30px;
+    color: #3d52c6;
+    text-shadow: 0px 0px 5px #0f2244;
+}
+h4:hover{
+    transition: 0.3s;
+    color: #d42379;
+    text-shadow: 0px 0px 5px #6e256e;
+    letter-spacing: 5px;
+}
+h5{
+    font-family: 'Teko', sans-serif;
+}
+.box_3-question {
+    margin-bottom: 30px;
+}
+.box_3-answer {
+    color: #f0afaf;
+    text-shadow: 0px 0px 5px #ba4431;
+    margin-bottom: 5px;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 17px;
+}
+.box_3-input {
+    cursor: pointer;
+}
+.box_3-download {
+    background-color: #66168e77;
+}
+.box_3-download-name {
+    margin: 0 auto;
+    color: #271333;
+}
+.box_3-comment {
+    background-color: #66168e77;
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 17px;
+}
+.box_3-comment:hover{
+    transition: 0.3s;
+    color: #b21414;
+    text-shadow: 0px 0px 5px #cf7a5b;
+}
+.box_3-comment_q {
+}
+.box_3-comment_input{
+    width: 300px;
+    height: 30px;
+    cursor: pointer;
+}
+.box_3-box_img {
+    padding: 90px;
+    
+}
+.box_3-name {
+    color: #ffffff;
+    font-family: 'Oswald', sans-serif;
+}
+.box_3-img {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ffffff;
+    box-shadow: 5px 5px 5px #33263d;
+}
+h5{
+    background-color: #411f6a9d;
+    font-size: 20px;
+    border: 1px solid #000000;
+}
+h5:hover{
+    transition: 0.3s;
+    letter-spacing: 3px;
+    text-shadow: 0px 0px 5px #d5cbc8;
+    color: #5a5454;
+}
